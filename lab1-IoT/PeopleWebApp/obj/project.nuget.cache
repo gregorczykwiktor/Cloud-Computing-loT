@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9B8Ak+bOXaAA7SNmcF4XsKpByAx/ukyOXb9w0DSdqWZA0UhACnOnJ8/RvEfVrBJ2F/oT8/2Atrni+x6tEWPDdg==",
+  "dgSpecHash": "bRnfzxzvdVa1emlW+xjgU2rwwnyrOolDcmhZp3c05O0UiRs3Svo94RdGmzD9aXZnLfRGRY6rFfpOTkttR+JIbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wiktor\\source\\repos\\lab1\\PeopleWebApp\\PeopleWebApp.csproj",
+  "projectFilePath": "D:\\GitHub\\Cloud-Computing-loT\\lab1-IoT\\PeopleWebApp\\PeopleWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Wiktor\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

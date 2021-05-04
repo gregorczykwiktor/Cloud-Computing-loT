@@ -5882,11 +5882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wiktor\\source\\repos\\lab1\\PeopleWebApp\\PeopleWebApp.csproj",
+      "projectUniqueName": "D:\\GitHub\\Cloud-Computing-loT\\lab1-IoT\\PeopleWebApp\\PeopleWebApp.csproj",
       "projectName": "PeopleWebApp",
-      "projectPath": "C:\\Users\\Wiktor\\source\\repos\\lab1\\PeopleWebApp\\PeopleWebApp.csproj",
+      "projectPath": "D:\\GitHub\\Cloud-Computing-loT\\lab1-IoT\\PeopleWebApp\\PeopleWebApp.csproj",
       "packagesPath": "C:\\Users\\Wiktor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wiktor\\source\\repos\\lab1\\PeopleWebApp\\obj\\",
+      "outputPath": "D:\\GitHub\\Cloud-Computing-loT\\lab1-IoT\\PeopleWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wiktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
