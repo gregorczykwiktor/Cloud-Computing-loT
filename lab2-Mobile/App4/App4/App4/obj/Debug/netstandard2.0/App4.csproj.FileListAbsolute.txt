@@ -1,0 +1,14 @@
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\bin\Debug\netstandard2.0\App4.deps.json
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\bin\Debug\netstandard2.0\App4.dll
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\bin\Debug\netstandard2.0\ref\App4.dll
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\bin\Debug\netstandard2.0\App4.pdb
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App4.csprojAssemblyReference.cache
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App4.AssemblyInfoInputs.cache
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App4.AssemblyInfo.cs
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App4.csproj.CoreCompileInputs.cache
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App4.dll
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\ref\App4.dll
+D:\GitHub\Cloud-Computing-loT\lab2-Mobile\App4\App4\App4\obj\Debug\netstandard2.0\App4.pdb
