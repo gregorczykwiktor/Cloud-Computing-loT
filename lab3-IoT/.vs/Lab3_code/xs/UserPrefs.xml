@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{301516D6-DD97-4178-A786-4A3DA44E9750}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab3__code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3_code/host.json">
+    <Files>
+      <File FileName="Lab3_code/getPerson.cs" Line="26" Column="34" />
+      <File FileName="Lab3_code/local.settings.json" Line="6" Column="284" />
+      <File FileName="Lab3_code/Startup.cs" Line="16" Column="1" />
+      <File FileName="Lab3_code/host.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab3_code" expanded="True">
+            <Node name="Lab3_code" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True">
+                  <Node name="Microsoft.EntityFrameworkCore.SqlServer" expanded="True">
+                    <Node name="Microsoft.EntityFrameworkCore.Relational" expanded="True">
+                      <Node name="Microsoft.EntityFrameworkCore" expanded="True">
+                        <Node name="Microsoft.Extensions.DependencyInjection" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="host.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/czarcz/School/semester VI/CloudComputing-Mobile/Cloud Computing/Lab3_code/Lab3_code/Startup.cs" relfile="Lab3_code/Startup.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
